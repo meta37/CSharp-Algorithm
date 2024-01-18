@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24.01.15 실습", "24.01.15
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.BinarySearchTree", "05.BinarySearchTree\05.BinarySearchTree.csproj", "{B397B577-CADD-4808-9A63-BB54215F4249}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Heap", "06.Heap\06.Heap.csproj", "{EE66CA9A-2741-4A95-8FEC-D1199C6F12CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Heap", "06.Heap\06.Heap.csproj", "{EE66CA9A-2741-4A95-8FEC-D1199C6F12CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코딩테스트", "코딩테스트\코딩테스트.csproj", "{C092E846-8E2C-4421-9AB4-3FAFC56F990B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "코딩테스트", "코딩테스트\코딩테스트.csproj", "{C092E846-8E2C-4421-9AB4-3FAFC56F990B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Hashtable", "07.Hashtable\07.Hashtable.csproj", "{CA29BEFA-A4AB-444D-9DAF-EB60705B8EB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{C092E846-8E2C-4421-9AB4-3FAFC56F990B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C092E846-8E2C-4421-9AB4-3FAFC56F990B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C092E846-8E2C-4421-9AB4-3FAFC56F990B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA29BEFA-A4AB-444D-9DAF-EB60705B8EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA29BEFA-A4AB-444D-9DAF-EB60705B8EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA29BEFA-A4AB-444D-9DAF-EB60705B8EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA29BEFA-A4AB-444D-9DAF-EB60705B8EB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
