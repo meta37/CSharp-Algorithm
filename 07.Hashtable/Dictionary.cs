@@ -12,7 +12,7 @@ namespace _07.Hashtable
 
         private struct Entry
         {
-            public enum State { None, Using, Deleted }
+            public enum State { None, Using, Deleted } 
 
             public State state;
             public Tkey Key;
