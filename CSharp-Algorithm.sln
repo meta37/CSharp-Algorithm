@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Heap", "06.Heap\06.Heap.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "코딩테스트", "코딩테스트\코딩테스트.csproj", "{C092E846-8E2C-4421-9AB4-3FAFC56F990B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Hashtable", "07.Hashtable\07.Hashtable.csproj", "{CA29BEFA-A4AB-444D-9DAF-EB60705B8EB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Hashtable", "07.Hashtable\07.Hashtable.csproj", "{CA29BEFA-A4AB-444D-9DAF-EB60705B8EB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.01.18 실습", "24.01.18 실습\24.01.18 실습.csproj", "{7139DAFD-1709-428D-AC8E-43B04218BBDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24.01.18 실습", "24.01.18 실습\24.01.18 실습.csproj", "{7139DAFD-1709-428D-AC8E-43B04218BBDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.DesignTechnique", "08.DesignTechnique\08.DesignTechnique.csproj", "{1FEF3B9E-30D2-4F55-B3DC-8EC037A3AE08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{7139DAFD-1709-428D-AC8E-43B04218BBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7139DAFD-1709-428D-AC8E-43B04218BBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7139DAFD-1709-428D-AC8E-43B04218BBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEF3B9E-30D2-4F55-B3DC-8EC037A3AE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEF3B9E-30D2-4F55-B3DC-8EC037A3AE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEF3B9E-30D2-4F55-B3DC-8EC037A3AE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEF3B9E-30D2-4F55-B3DC-8EC037A3AE08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
