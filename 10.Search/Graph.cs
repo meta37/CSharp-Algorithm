@@ -41,7 +41,7 @@ namespace _10.Search
         {
             {   0, 132, INF, INF,  16 },
             {  12,   0, INF, INF, INF },
-            { INF,  38,   0, INF, INF }, 
+            { INF,  38,   0, INF, INF },
             { INF,  12, INF,   0,  54 },
             { INF, INF, INF, INF,   0 },
         };
